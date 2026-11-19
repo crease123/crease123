@@ -1,6 +1,6 @@
 <div align="center">
 
-# 你好，我是刘威 👋
+# 你好， 👋
 
 **`@crease123`** · 学习让世界变好一点 🌱
 
@@ -15,7 +15,7 @@
 ## 🔭 关于我
 
 - 我在 **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH)** 上做插件 —— 把语音、日记这类日常能力接进 Agent，让它更好用一点。
-- 我在学 **多智能体、自进化与 Agent 工程化**；也喜欢拿经典 AI 问题练手：Wumpus World、谁是卧底。
+- 我在学 **多智能体、自进化与 Agent 工程化**；。
 - 做完的东西会录成视频教程，发在 [B 站](https://space.bilibili.com/650306886)。
 - 信条很简单：**边做边学，learn in public。**
 
@@ -66,7 +66,7 @@ Agent 自己记日记：每天写一个 JSON，侧边栏把它画成可勾选待
 <details>
 <summary>🇬🇧 English</summary>
 
-**Liu Wei** ([@crease123](https://github.com/crease123)) — I build small tools that make AI agents more usable, mostly as plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
+ ([@crease123](https://github.com/crease123)) — I build small tools that make AI agents more usable, mostly as plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
 
 - 🎙️ [voice-call](https://github.com/crease123/voice-call) — talk to your DSH agent and hear it reply.
 - 🗓️ [dsh-journal-calendar](https://github.com/crease123/dsh-journal-calendar) — the agent keeps a daily journal, rendered as a calendar.
